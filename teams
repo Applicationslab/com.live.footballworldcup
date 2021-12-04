@@ -1,0 +1,42 @@
+[{
+		"teamName": "Argentina",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+	},
+	{
+		"teamName": "Belgium",
+		"teamImage": "https://brandslogos.com/wp-content/uploads/images/belgium-flag-logo.png"
+	}, {
+		"teamName": "Brazil",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+	}, {
+		"teamName": "Croatia",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1024px-Flag_of_Croatia.svg.png"
+	}, {
+		"teamName": "Denmark",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
+	}, {
+		"teamName": "England",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+	}, {
+		"teamName": "France",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png"
+	}, {
+		"teamName": "Germany",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+	}, {
+		"teamName": "Netherlands",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2560px-Flag_of_the_Netherlands.svg.png"
+	}, {
+		"teamName": "Qatar",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/1280px-Flag_of_Qatar_%283-2%29.svg.png"
+	}, {
+		"teamName": "Serbia",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png"
+	}, {
+		"teamName": "Spain",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
+	}, {
+		"teamName": "Switzerland",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/1500px-Civil_Ensign_of_Switzerland.svg.png"
+	}
+]
